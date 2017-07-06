@@ -1,3 +1,5 @@
+# 常量
+如const string c_helpInfo = "帮助";
 # 变量
 声明时一行一个变量
 ## 临时变量
